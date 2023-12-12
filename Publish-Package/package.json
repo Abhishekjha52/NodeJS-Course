@@ -1,0 +1,20 @@
+{
+  "name": "abhishek-package",
+  "version": "1.0.2",
+  "description": "Calculator with basic functionalities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Addition",
+    "Subtraction",
+    "Multiplication",
+    "Division"
+  ],
+  "author": "Abhishek Jha",
+  "license": "ISC",
+  "dependencies": {
+    "abhishek-package": "^1.0.2"
+  }
+}
