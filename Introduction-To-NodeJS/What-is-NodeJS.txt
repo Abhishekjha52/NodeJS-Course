@@ -1,0 +1,34 @@
+Node.JS is an open source, cross platform javascript runtime environment for executing code outside of a browser.
+
+Node.Js id widely used to build back-end services for client side applications, like creating APIs, building Authentication, File handling and talking to the databases.
+
+Node.Js can be used to build data-intensive, highly scalable and real time web apps.
+
+Node.Js is created by Ryan Dahl.
+
+
+Why to use Node.Js?
+
+    1. Superfast and Highly scalable
+    2. Javascript Everywhere
+    3. Consistent and Clean codebase
+    4. Huge Community Support.
+    5. Large Ecosyste, of Open Source Libs(NPM)
+
+
+Case Study of NodeJs at PayPal:
+
+Paypal adopted Nodejs instead of Java because of following reasons
+    - Built almost twice as fast with fewer people
+    - Written in 33% fewer lines of code
+    - Constructed with 40% fewer files
+Also compared with few parameters such as Performance. 
+
+
+Features of Node.Js
+    1. Single-Threaded
+    2. Asynchronous
+    3. Event Driven
+    4. NPM.
+    5. Highly scalable
+    6. Performance (C++ and V8 Engine)
