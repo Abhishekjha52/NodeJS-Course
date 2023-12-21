@@ -1,0 +1,24 @@
+What Is Middleware?
+    1. A request handler with access to the application's request-response cycle is known as middleware. 
+    2. It's a function that holds the request object, the response object, and the middleware function.
+    3. Middleware can also send the response to the server before the request. 
+    4. The next middleware function is commonly represented as a variable named next.
+    5. Simply middleware is a function that can only be applied using routes. 
+    6. We can access and modify request and response data using middleware.
+
+
+Functions of Middleware
+    1. Executes any code 
+    2. We can make changes to the request-response objects
+    3. Middleware can also End the request-response cycle
+    4. Middleware can call the next middleware function in a stack 
+    5. We use these functions to modify our middleware to perform many tasks. 
+    
+    
+If we want to block our site for some country or if we're going to check the authentication of a user etc., 
+we use middleware for that.
+
+⭐ Request-Response Cycle -
+    For which it creates a request and response object. 
+    The data is then used to generate and send back a meaningful response. 
+    Now, to process that data, in Express we use MIDDLEWARES, which can manipulate the request/response object or execute any other code.
